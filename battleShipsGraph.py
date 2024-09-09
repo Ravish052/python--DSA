@@ -36,6 +36,6 @@ ship2 = ship("Z",4,4)
 ship3 = ship("Z",5,6)
 
 ships = [ship1,ship2,ship3]
-process_ship(ships)
+process_ship(ships) 
 
 
